@@ -1,0 +1,16 @@
+PODS:
+  - GreetingSDK (1.1.0)
+
+DEPENDENCIES:
+  - GreetingSDK
+
+SPEC REPOS:
+  https://github.com/DeveloperMaris/GreetingCocoaPodsSpecs:
+    - GreetingSDK
+
+SPEC CHECKSUMS:
+  GreetingSDK: 65c20d874910bcef273ea0dad0abae38626dda59
+
+PODFILE CHECKSUM: ce4ea79abf66c5c8cd25351394719a73b86604a7
+
+COCOAPODS: 1.9.3
